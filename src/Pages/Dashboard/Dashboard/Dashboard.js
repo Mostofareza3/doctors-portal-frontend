@@ -17,9 +17,9 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import Calendar from '../../Shared/Calendar/Calendar';
-import Appointments from '../Appointments/Appointments';
 import { Button } from '@mui/material';
 import { Link } from 'react-router-dom';
+import Appointments from '../Appointments/Appointments';
 
 const drawerWidth = 200;
 
